@@ -10,26 +10,22 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **SRM E-YANTRA LAB INVENTORY**
+ 🔭 I’m currently working on **NOVA COMPILER**
  
  🌱 I’m currently learning **React, SQL**
 
- 💬 Ask me about **[Web Ideas](https://github.com/nainesh15gorle)**
+ 💬 Ask me about **[Web Ideas](https://github.com/nk9754-ctrl)**
 
  ⚡ Fun fact **I am a Coder**
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:gorlenainesh@gmail.com">
+  <a href="mailto:nk9754@srmist.edu.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/nainesh-gorle-156771324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://nainesh15gorle.github.io/nainesh-portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+
+
 </div>
 
 <hr/>
@@ -57,10 +53,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nainesh15gorle&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nainesh15gorle&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nk9754-ctrl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nk9754-ctrl&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nainesh15gorle&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nk9754-ctrl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
