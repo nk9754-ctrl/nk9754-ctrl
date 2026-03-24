@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NOVA COMPILER**
+ 🔭 I’m currently working on **Truck Link**
  
  🌱 I’m currently learning **React, SQL**
 
